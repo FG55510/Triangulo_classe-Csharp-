@@ -1,13 +1,13 @@
-﻿using System;
-using System.Globalization;
+﻿using System;  //Biblioteca que permite a utilização do fucoes matematicas entre outras;
+using System.Globalization;  //Biblioteca que permite a convercao de um tipo de dado em outro, por exemplo de double para string;
 
-namespace Course
+namespace Course  //Local do programa;
 {
-    public class Triangulo
+    public class Triangulo  //Classe que possibilita a fabricacao dos objetos triangulos
 
 
     {
-        public double A { get; set; }
+        public double A { get; set; } //Variavel que disponivel
         public double B { get; set; }
         public double C { get; set; }
 
