@@ -40,7 +40,7 @@ namespace Course  //Local do programa;
             {
                 Console.WriteLine("Maior area: x"); //Relatar a area maior para o usuario;
             }
-            else if (areaX < areaY)/ /Caso a area de X seja menor que a de Y;
+            else if (areaX < areaY)//Caso a area de X seja menor que a de Y;
             {
                 Console.WriteLine("Maior area: y"); //Relatar a area maior para o usuario;
             }
