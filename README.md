@@ -35,7 +35,7 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Programa que mostra a area do triangulo utilizando o tamanho dos lados para o usuario utilizando funções.
+Programa que mostra a area do triangulo utilizando o tamanho dos lados para o usuario utilizando classe.
 
 ## Funcionalidades ⚙️
 ✔️ Caculo da area do triangulo;
@@ -52,13 +52,14 @@ acesso a compilador de c#.
 Apenas aplique o codigo em um compilador de c# :)
 
 ## Testes realizados
-[Programa_funcionando](https://github.com/Fernanda5510/Execicio_Jogo_Advinha/assets/130413112/ea094be3-af57-4faf-ac46-737bf6265c3f)
+![Programa_funcionando](https://github.com/Fernanda5510/Triangulo_classe-Csharp-/assets/130413112/abdffe21-02f3-4897-b0ac-49d74b0919b8)
+
 
 ## Banco de Dados 🗂️
 Não há no momemento.
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![C#] (https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ...
 Visual Studio;[Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
